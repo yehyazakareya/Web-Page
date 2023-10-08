@@ -27,13 +27,12 @@ duplicity
 entrypoints
 evdev
 fasteners
-filelock
+
 flask
 flask-session
 Flask-SQLAlchemy
 
 gpg
-greenlet
 gunicorn
 html5lib
 httplib2
